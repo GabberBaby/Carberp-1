@@ -36,3 +36,4 @@ The aim of this repo is to simplify access to those who want to study it, includ
 - http://www.welivesecurity.com/2012/07/02/all-carberp-botnet-organizers-arrested/
 - http://www.welivesecurity.com/2013/03/25/carberp-the-never-ending-story/
 - http://www.welivesecurity.com/wp-content/media_files/Carberp-Evolution-and-BlackHole-public.pdf
+- [Spam Nation book  by Brian Krebs](https://www.amazon.co.uk/Spam-Nation-Organized-Cybercrime--Epidemic/dp/1492603236/)
