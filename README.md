@@ -2,7 +2,7 @@ Carberp 2013 Code Leak
 
 The aim of this repo is to simplify access to those who want to study it, includes:
 
-* Source code of the Carberp botnet leaked on some Russian underground forums, nothing has been touched.
+* Source code of the Carberp botnet leaked on some Russian underground forums, nothing has been touched (even though all the executables, builders and password protected files were deleted, contact me if you need them).
 * Admin Panel
 * [translations](http://malwageddon.blogspot.co.uk/2013/06/carberp-olympus-has-fallen.html)
 
